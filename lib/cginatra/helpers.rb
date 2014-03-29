@@ -8,10 +8,6 @@ module CGInatra
       CGInatra.response
     end
 
-    def commit_headers!
-      CGInatra.commit_headers!
-    end
-
     def params
       request.params
     end

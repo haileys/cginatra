@@ -1,3 +1,5 @@
+require "erb"
+
 module CGInatra
   module Helpers
     def request
